@@ -33,6 +33,8 @@
 
 #### - eJPTv1
 
+## Projects
+#### <a href="https://github.com/Kitty-OX/SOC-Automation-Project/tree/main"> SOC Automation Project (Home Lab)</a>
 <!---
 Kitty-OX/Kitty-OX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
